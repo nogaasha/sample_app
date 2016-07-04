@@ -1,7 +1,6 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Простое приложения для изучения статических страниц
 
 Things you may want to cover:
 
